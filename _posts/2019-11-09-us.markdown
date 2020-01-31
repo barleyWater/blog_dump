@@ -1,0 +1,22 @@
+---
+layout: poetry
+link:  Us
+title: 我们
+date: 2019-11-09 15:46
+comments: true
+external-url:
+categories: Poetry
+
+---
+城市高大、影影<br />
+幢幢，如无字<br /> 
+大碑。<br /> 
+我们在时代边缘出街似黑花圈<br />
+志愿掌心穿钉、流尽<br />
+好血。黑夜无声……<br />  
+
+待到某日天<br />  
+明——活着，是<br /> 
+呈堂证供<br />  
+死了，便化来春<br />
+荆花<br />

@@ -1,0 +1,24 @@
+---
+layout: poetry
+link: 37.5℃
+title: 37.5℃
+date: 2018-06-11 15:46
+comments: true
+external-url:
+categories: Poetry
+
+---
+
+青白色的月亮 <br>
+在黏滞的 <br>
+水汽中挣扎 <br>
+照亮世界的知性飘摇 <br>
+明灭 <br>
+轻柔地漫上一层 <br>
+黑暗的纱 <br>
+顺着皮肤往下落，潮湿了体温 <br>
+
+给我风，吹熄这具肉身 <br>
+可是这漫长 <br>
+漫长的夜 <br>
+毒火竟成了唯一的光 <br>

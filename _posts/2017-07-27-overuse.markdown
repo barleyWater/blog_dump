@@ -1,0 +1,16 @@
+---
+layout: essay
+link: Over Use
+title: 以滥为滥
+date: 2017-07-27 15:46
+abstract: "<br>
+### 朔间零x大神晃牙<br>
+### 时间戳为卸任之后/转校生入学之前<br>
+### R-18: Sex/Underage Drinking/Ecstasy(一个不幸的意外)<br>
+### 或者您可以认为是 朔间零←大神晃牙 请读者您来定夺<br>"
+comments: true
+external-url:
+categories: Ensemble-Stars
+
+---
+![over use](/assets/overuse.png)
