@@ -1,0 +1,17 @@
+# Site settings
+title: "THIS SITE WILL BE DOWN 2020/07/11"
+author: "barley-water"
+description: "This is a storage center for moving dunes, wanning moons and ancient echoes of blood. Some of the content is also available at <a href='http://barley-water.lofter.com/''>Lofter</a>."
+keywords: ""
+biography: "hymn-of-wheat or barley-water. A hunter of Moon Essence who is crazy as f. "
+colophon: "©MMXVIII by barley-water."
+
+baseurl: ""
+url: "http://blog.barley-water.top"
+
+simple_search: http://google.com/search
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/
+
+theme: jekyll-theme-slate
