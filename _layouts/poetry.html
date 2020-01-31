@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<div class="post">
+  <div class="container main">
+    <div class="row">
+      <header>
+        <p> </p>
+        <center><span itemprop="name"><h1>{{ page.title }}</h1></span></center>
+        <center><p>{{ page.date | date: "%-d %b %Y" }}</p></center>
+        <center><p style="
+          color: #ad1f1f;
+          font-weight: bold;
+      ">此站将于2020年7月11日关闭，备份或许不可用</p></center>
+        <center><span class="small-ornament">
+          <svg viewBox="0 0 210 210">
+          <path d="m93,170l-80.999998,37" stroke-width="7" stroke="#000000" fill-opacity="null" fill="none"/>
+          <path d="m12,208l34,-52" stroke-opacity="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" stroke="#000000" fill-opacity="null" fill="none"/>
+          <path d="m3,170l42,-14" stroke-opacity="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" stroke="#000000" fill-opacity="null" fill="none"/>
+          <path d="m87,5l-82,165" stroke-opacity="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" stroke="#000000" fill-opacity="null" fill="none"/>
+          <path d="m184.113892,189.658234l0,0zl-99.227768,-184.316475" stroke-opacity="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" stroke="#000000" fill-opacity="null" fill="none"/>
+          <path d="m139,209l71,-37" stroke-opacity="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" stroke="#000000" fill-opacity="null" fill="none"/>
+          <path d="m89,168c0,-4.972382 4.251381,-9 9.5,-9c5.248619,0 9.5,4.027618 9.5,9c0,4.972382 -4.251381,9 -9.5,9c-5.248619,0 -9.5,-4.027618 -9.5,-9z" stroke-opacity="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" stroke="#000000" fill-opacity="null" fill="none"/>
+          <path d="m51.5,88c0,-4.972374 4.027626,-9 9,-9c4.972374,0 9,4.027626 9,9c0,4.972374 -4.027626,9 -9,9c-4.972374,0 -9,-4.027626 -9,-9z" stroke-opacity="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" stroke="#000000" fill-opacity="null" fill="none"/>
+        </svg></span></center>
+      </header>
+    </div>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-8 offset-md-1">
+        <article lang="ch" class="poetry">
+          {% if page.abstract %} <b>Abstract.</b> {{ page.abstract }}<br><br>{% endif %}
+          {{ content }}
+        </article>
+	     </div>
+     </div>
+  </div>
+</div>
